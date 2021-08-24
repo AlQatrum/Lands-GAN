@@ -1,0 +1,9 @@
+Data/
+Output/NoDiffAugment/128x128/
+Output/NoDiffAugment/64x64/
+Output/DiffAugment0.3/128x128/
+Output/DiffAugment0.3/64x64/
+Output/DiffAugment0.5/128x128/
+Output/DiffAugment0.5/64x64/
+Output/DiffAugment1/128x128/
+Output/DiffAugment1/64x64/
